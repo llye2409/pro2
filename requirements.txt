@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 flask
 Werkzeug==2.2.2
 urllib3==1.26.14
 flask-paginate==2022.1.8
+=======
+flask
+python
+Werkzeug==2.2.2
+urllib3==1.26.14
+flask-paginate==2022.1.8
+>>>>>>> 2cb6d5d3edc19940c3de6767e5e269ad1a279834
